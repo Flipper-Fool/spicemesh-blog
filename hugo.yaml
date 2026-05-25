@@ -1,4 +1,15 @@
 baseURL: https://example.org/
 locale: en-us
-title: My New Hugo Project
 theme: ["PaperMod"]
+defaultTheme: dark
+title: Spicemesh tech blog
+description: "my description"
+author: Spicemesh
+comments: false
+enableEmoji: true
+
+params:
+  homeInfoParams:
+    Title: "Welcome"
+    Content: "This is a simple blog set up for tech ramblings, insights, and investigations"
+

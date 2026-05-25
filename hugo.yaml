@@ -12,4 +12,18 @@ params:
   homeInfoParams:
     Title: "Welcome"
     Content: "This is a simple blog set up for tech ramblings, insights, and investigations"
+  mainSections:
+    - blog
+    - posts
 
+menu:
+  main:
+    - identifiers: home
+      name: home
+      url: /
+    - identifiers: posts
+      name: Posts
+      url: /posts
+
+profileMode:
+  enabled: false

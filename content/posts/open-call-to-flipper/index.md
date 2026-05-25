@@ -6,7 +6,7 @@ description: "The community's problems with Flipper Devices, and how the company
 ---
 ## Background Knowledge
 [Flipper Devices](https://flipperdevices.com) is the company behind the viral and well known open source tech gadget known as the [Flipper Zero](https://flipper.net) that began shipping in 2022.
-In order to get community engagement and real time feedback as well as foster an environment where people would make tools for the Flipper Zero, the company set up both an English-speaking Discord server and Russian-speaking Telegram community. It became quickly apparent that the Discord server would be much larger than the Telegram community. Between 2022 and early 2024, staff at most levels were active at least once a week in these communities. This included developers, artists, and community managers. Participation by staff I feel genuinely has helped kick off community code contributions, artwork, and application development for the device. 
+In order to get community engagement and real time feedback, as well as foster an environment where people would make tools for the Flipper Zero, the company set up both an English-speaking Discord server and Russian-speaking Telegram community. It became quickly apparent that the Discord server would be much larger than the Telegram community. Between 2022 and early 2024, staff at most levels were active at least once a week in these communities. This included developers, artists, and community managers. Participation by staff I feel genuinely has helped kick off community code contributions, artwork, and application development for the device. 
 
 I also want to make something very clear here going forward: **The Flipper Devices developers are NOT the target of any blame in the events below.**
 

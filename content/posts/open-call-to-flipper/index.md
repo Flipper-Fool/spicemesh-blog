@@ -58,6 +58,6 @@ We hope that Flipper devices will consider the following items:
 - Rethink their social media strategy by having better public relations and also consider sponsorships in order to steer content to their favor from other creators. 
 - Find ways to invest and give back to the existing community instead of simply treating it like a resource that only exists to be strip-mined of free labor. 
 
-Will Flipper Devices acknowledge these things? Will any of this drive them to re-evaluate their direction? I cannot say at this stage. 
+Will Flipper Devices acknowledge these things? Will any of this drive them to re-evaluate their direction? I cannot say at this stage. I hope that where we are in May of 2026 will not be where we are in the future months.
 
 My hope is that this information brings people up to speed with the current dealings of Flipper Devices and educate people to the poor support and one-sided extraction Flipper devices performs regarding their community. If we are lucky, hopefully one day this page will be updated with positive news about how the company was able to turn around and make it more attractive for their community. That being said, don't hold your breath.

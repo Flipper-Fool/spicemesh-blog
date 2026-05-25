@@ -53,7 +53,7 @@ New joins hoping to contribute code or technical advice to the Discord server ha
 I think most long time community members in this space wish these things were not the case. They also have a bit of hope, however small, that maybe things will get better. 
 We hope that Flipper devices will consider the following items:
 - Provide better communication with their community, providing more concise plans for their current projects and how they will transition away to future projects.
-- Address how the existing products will handled as they reach end of support.
+- Address how the existing products will handled as they reach end of support while also keeping the community in mind.
 - Stop attacking or making fun of influencers/creators in the social media space.
 - Rethink their social media strategy by having better public relations and also consider sponsorships in order to steer content to their favor from other creators. 
 - Find ways to invest and give back to the existing community instead of simply treating it like a resource that only exists to be strip-mined of free labor. 

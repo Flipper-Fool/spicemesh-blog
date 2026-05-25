@@ -33,7 +33,7 @@ On the social media side, problems also began appearing regarding their communit
 
 ![Image depicts a toxic comment from Flipper Devices and their CEO in response to a video on a different tech tool](sas-pavel.jpg)
 
-It is in poor form to use high profile accounts to simply make fun of other products and projects outside of your own. I think most people would understand that this is just flat out very poor form in the public relations space. 
+It is poor form to use high profile accounts to simply make fun of other products and projects outside of your own. I think most people would understand that this is just flat out very poor form in the public relations space. 
 Simply saying "nothing personal" does not absolve the negative damage done in public view. This, unfortunately, was only the first of such incidents....
 
 ![Image depicts a somewhat insulting comment from flipper devices to the influencer 0Day 121 weeks after the post, commenting What a Hack](0day-drama.jpg)

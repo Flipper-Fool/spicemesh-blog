@@ -15,7 +15,7 @@ The aim is simple: provide a space to work together freely, allowing for a wider
 Ready to learn more, chat more, and get involved? Join below!
 https://discord.gg/vUVK5naagd
 
-The messaging a wholly support, even if the methods were a bit over the top to send it. I think anyone looking to get into the ecosystem should certainly consider this server!
+The messaging I wholly support, even if the methods were a bit over the top to send it. I think anyone looking to get into the ecosystem should certainly consider this server!
 
 ## Background Knowledge
 [Flipper Devices](https://flipperdevices.com) is the company behind the viral and well known open source tech gadget known as the [Flipper Zero](https://flipper.net) that began shipping in 2022.

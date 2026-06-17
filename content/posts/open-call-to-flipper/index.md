@@ -4,6 +4,19 @@ draft: false
 title: 'An Open Call To Flipper Devices'
 description: "The community's problems with Flipper Devices, and how the company can improve."
 ---
+### Update (6/17/2026)
+It seems efforts are being made to have the Flipper Devices community become community led and not under corporate control.
+There was an attempt at a global ping within the Flipper Devices discord by some individual, and before it was removed, it contained this:
+
+> Hey Flipper fans, join us in this move to a cool NEW community server!
+With recent non-ideal corporate changes in direction, the community has decided to take action. Now announcing THE new independent server built by the community, for the community!
+It’s a fresh home where creators, developers, and experts actually come first. 
+The aim is simple: provide a space to work together freely, allowing for a wider variety of knowledge to be shared!
+Ready to learn more, chat more, and get involved? Join below!
+https://discord.gg/vUVK5naagd
+
+The messaging a wholly support, even if the methods were a bit over the top to send it. I think anyone looking to get into the ecosystem should certainly consider this server!
+
 ## Background Knowledge
 [Flipper Devices](https://flipperdevices.com) is the company behind the viral and well known open source tech gadget known as the [Flipper Zero](https://flipper.net) that began shipping in 2022.
 In order to get community engagement and real time feedback, as well as foster an environment where people would make tools for the Flipper Zero, the company set up both an English-speaking Discord server and Russian-speaking Telegram community. It became quickly apparent that the Discord server would be much larger than the Telegram community. Between 2022 and early 2024, staff at most levels were active at least once a week in these communities. This included developers, artists, and community managers. Participation by staff I feel genuinely has helped kick off community code contributions, artwork, and application development for the device. 

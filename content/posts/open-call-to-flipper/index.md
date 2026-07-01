@@ -4,6 +4,14 @@ draft: false
 title: 'An Open Call To Flipper Devices'
 description: "The community's problems with Flipper Devices, and how the company can improve."
 ---
+### Update (7/1/2026)
+Flipper Devices has opted to both post their own [blog response](https://blog.flipper.net/future-of-flipper-zero-development/) to the info here, and have also opted to host a [Reddit AMA with the company](https://www.reddit.com/r/flipperzero/comments/1ukn1ir/official_ama_askmeanything_with_the_flipper_zero/). 
+As of today, it seems it is not going well. Responses from their CEO, Pavel Zhovner, have largely been tone-deaf, showing ignorance of the community's desire and instead wanting to shut down lines of communication on Discord and Reddit in favor of purely Github based communications. 
+
+I've archived the two top upvoted items that got the mentioned tone-deaf responses both [**here**](ama_response_1.png) and [**here**](ama_response_2.png). 
+
+Why bother having a social media interaction platform if you aren't going to utilize it???
+
 ### Update (6/17/2026)
 It seems efforts are being made to have the Flipper Devices community become community led and not under corporate control.
 There was an attempt at a global ping within the Flipper Devices discord by some individual, and before it was removed, it contained this:
